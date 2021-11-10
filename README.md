@@ -14,7 +14,7 @@ Há dois arquivos do jupyter notebook:
 
 O ![ProjetoBasico-LOCAL](https://github.com/andersonnrc/projeto-final-semantix/blob/main/ProjetoBasico-LOCAL.ipynb) que é executado fora do container, com o objetivo de fazer o download dos dados da Covid, para fazer a extração e por fim serem copiados para o hdfs.
 
-E o ![ProjetoBasico-CLUSTER](https://github.com/andersonnrc/projeto-final-semantix/blob/main/ProjetoBasico-CLUSTER.ipynb) que é executado dentro do container jupyter-spark para ELT.
+E o ![ProjetoBasico-CLUSTER](https://github.com/andersonnrc/projeto-final-semantix/blob/main/ProjetoBasico-CLUSTER.ipynb) que é executado dentro do container jupyter-spark para ETL.
 
 
 ### Contato
